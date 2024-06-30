@@ -161,6 +161,9 @@ h6 {
 #header.header-top h2 {
   display: none;
 }
+#header.header-top .landpage {
+  display: none;
+}
 
 #header.header-top h1 {
   margin-right: auto;
